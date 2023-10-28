@@ -542,6 +542,44 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+What is Hacktoberfest?
+</h2>
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
+
+During the entire month, all you have to do is contribute to any open source project with the hacktoberfest tag and open at least 4 pull requests which follow the [Hacktoberfest guidelines](https://hacktoberfest.com/participation/). It can be any project mentioned below and you can contribute in any way possible. It can be a be a bug fix, optimisation, feature addition or even a documentation enhancement! 
+
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
+
+<h1>
+How to get Started?
+</h1>
+
+Click on the link to register yourself [here](https://hacktoberfest.digitalocean.com/).
+
+## Why should you take part?
+- Chance to contribute to awesome open source projects 
+- Engage with reputed communities
+- Free swags and T-Shirts from Digital Ocean
+- Chance to get a tree planted and make Earth greener
+
+## CONTRIBUTING
+
+We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good-first-issue tag.
+
+
+<h1 align="center">🛠️ Workflow 🛠️</h1>
+<ul>
+<li>Check Contribution Guidelines.</li>
+<li>Check for Open ( Unassigned ) Issue, If you are able to do the particular task then ask for an assignment ( Help will be provided by mentors to get the task done if you are stuck at someplace )</li>
+<li>Start work only on the issue which is assigned to you.</li>
+<li>After Completion of work Open a Pull Request with a template provided.</li>
+<li>Mentor will review it and let you know if any changes are required and get it merged.</li>
+<li>Only the existing issues can be worked upon, contributors are not allowed to open any issues of their own.</strong></li>
+<li>After this your commit will be merged into our repository.</li>
+<li>Do-Follow Code of Conduct.</li>
+<li>Happy Coding 💻</li>
+</ul>
+
 
 ## Tutorial in Other Languages
 
